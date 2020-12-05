@@ -33,9 +33,6 @@ class CreateUsers extends Component {
         axios.post('http://localhost:5000/users/add', user)
             .then(res => console.log(res.data));
 
-
-
-
         // make user stays on the page
         this.setState({
             username: ''
