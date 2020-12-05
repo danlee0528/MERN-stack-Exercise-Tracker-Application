@@ -1,8 +1,8 @@
 # MERN Stack CRUD - Exercise Tracker Application
  - Last Updated: Dec 5, 2020 
  - Tutorial Link: https://www.youtube.com/watch?v=7CqJlxBYj-M (2019)
-   - the tutorial video is outdated and may causelots of errors + bugs.
-   - Coverage: how to connect the backend to the database and wire the backend with the frontend
+   - the tutorial video is outdated and will have numerous errors as well as bugs.
+   - It only covers how to connect the backend to the database and wire the backend with the frontend
 
 ## technology used
 - React (frontend)
